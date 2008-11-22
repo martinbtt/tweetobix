@@ -1,0 +1,17 @@
+A proof of concept Twitter client developed to demonstrate Monkeybars
+for Ruby Manor.
+
+Feel free to fork, adapt as you see fit.  Please do give feedback
+and send commends via:
+
+http://www.tweetobix.com
+
+Or drop me a message via twitter http://twitter.com/martinbtt
+
+
+
+Install Instructions
+-------------------------------------------------------------
+
+Grab this code base. Open a new project in NetBeans.
+Follow the instructions on tweetobix.com. 

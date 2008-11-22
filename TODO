@@ -1,0 +1,17 @@
+General
+[ ] Icon for the app
+[ ] Centre app on screen on startup
+
+Main Interface
+[ ] Show time since tweet posted in timeline (freeze active support?)
+[ ] Scroll tweets to top or use diff display method to show timeline
+[ ] Show progress bar when tweet being posted, give feedback to say when
+   complete. Refresh timeline on post.
+[ ] Give feedback if tweet fails to be posted.
+
+
+Packaging
+[ ] Make it work! / upgrade to rawr 1.0 perhaps?
+
+Note currently upgrading to 1.0 and compiling gives errors
+on hpricot
